@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## <a name="about">#about </a>WTF is this blog
+## <a name="wtf">#wtf </a> is this blog
 
 Этот бложик **idiotism-driven**, а не **knowledge-driven**. То есть я задаю вопросы, на которые заранее не знаю ответы.
 
