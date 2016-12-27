@@ -5,6 +5,7 @@ layout: default
 ## <a name="wtf">#wtf </a> is this blog
 
 Этот бложик **idiotism-driven**, а не **knowledge-driven**. То есть я задаю вопросы, на которые заранее не знаю ответы, и со временем отвечаю на них
+
 **Мое:**
 [[github]](https://github.com/Al-p-i/)
 
