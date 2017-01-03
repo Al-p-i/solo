@@ -32,7 +32,8 @@ layout: default
 heroku run bash
 ```
 Посмотреть на процесс нельзя (по крайней мере в туториале этого нет и видимо это недоступно стандартными средствами) а жаль. Как например взять thread dump?
-https://devcenter.heroku.com/articles/java-memory-issues
+
+[https://devcenter.heroku.com/articles/java-memory-issues](https://devcenter.heroku.com/articles/java-memory-issues)
 
 Прямого доступа к контейнеру с приложением, насколько я понял, у нас нет. То есть весь менеджмент ложится на тулчейн heroku.
 По умолчанию ты можешь смотреть только поледние 1500 строк логов через
